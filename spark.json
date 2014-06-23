@@ -1,0 +1,7 @@
+{
+	"name": "MPU6050",
+	"author": "Paul Kourany / Jeff Rowberg",
+	"version": "1.0.0",
+	"license": "MIT license",
+	"description": "MPU6050 IMU library"
+}
