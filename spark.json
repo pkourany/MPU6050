@@ -1,5 +1,5 @@
 {
-	"name": "MPU6050_v1",
+	"name": "MPU6050",
 	"author": "Paul Kourany / Jeff Rowberg",
 	"version": "1.0.0",
 	"license": "MIT license",
